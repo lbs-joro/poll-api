@@ -5,7 +5,10 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "test": "jest"
+    "test": "jest",
+    "test-extra": "jest test-extra",
+    "test-basic": "jest tests"
+    
   },
   "author": "",
   "license": "ISC",
